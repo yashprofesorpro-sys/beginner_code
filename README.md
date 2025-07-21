@@ -1,2 +1,2 @@
 # code
-It is for code
+code or project for every begginer
