@@ -1,0 +1,5 @@
+First download the pygame from terminal or cmd using this command-
+pip install pygame
+
+How to play-
+press space bar to jump and cross through gaps of green pipe and make score
